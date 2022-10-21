@@ -1,0 +1,39 @@
+.one{
+	height: 400px;
+	background: rgb(123, 3, 250);
+}
+.two{
+	height: 400px;
+	background: rgb(128, 237, 107);
+}
+.three{
+	height: 400px;
+	background: rgb(75, 28, 217);
+}
+.four{
+	height: 400px;
+	background: rgb(241, 146, 213);
+}
+
+
+/* =========fadetoggle============ */
+.five{
+	height: 400px;
+    width: 500px;
+	background: rgb(241, 146, 213);
+}
+/* .six{
+	height: 400px;
+    width: 500px;
+	background: rgb(127, 214, 27);
+}
+.seven{
+	height: 400px;
+    width: 500px;
+	background: rgb(228, 111, 91);
+}
+.eight{
+	height: 400px;
+    width: 500px;
+	background: rgb(18, 241, 145);
+} */
